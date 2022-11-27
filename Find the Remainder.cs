@@ -7,3 +7,4 @@ public class Kata
     throw new NotImplementedException();
   }
 }
+# C Sharp Solution
