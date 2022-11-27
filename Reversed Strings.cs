@@ -7,3 +7,4 @@ public static class Kata
     return String.Concat(str.Reverse());
   }
 }
+// Python preferred
