@@ -3,5 +3,3 @@ def is_divide_by(number, a, b):
          return True
     else:
         return False
-       
-
